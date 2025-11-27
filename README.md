@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tales094</h1>
-<h3 align="center">A passionate frontend developer from France</h3>
+<h3 align="center">A passionate frontend and backend developer from France</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tales094&label=Profile%20views&color=0e75b6&style=flat" alt="tales094" /> </p>
 
